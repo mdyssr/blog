@@ -1,6 +1,6 @@
 +++
 date = 2022-09-09T23:39:12Z
-title = "It all will end"
+title = "It will all end"
 
 +++
 Won't it all end?
@@ -15,6 +15,6 @@ No matter what you feeling right know, **it will end.** Some day these will be m
 
 I wish you and me the best of luck, just know, nothing lasts ❤️
 
-![a person holding a camera](/uploads/evan-wise-cju3fkzxttw-unsplash.jpg)
+![](uploads/evan-wise-cju3fkzxttw-unsplash.jpg)
 
 Photo by:  [@evanthewise](https://unsplash.com/@evanthewise "@evanthewise")
