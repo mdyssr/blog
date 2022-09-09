@@ -1,5 +1,5 @@
 baseURL = 'https://mdyssr.vercel.app/'
-disqusShortname = 'mhmdyasr'
+disqusShortname = 'mdyssr'
 languageCode = 'en-us'
 theme = "hugo-tania"
 title = 'Muhammad Yasser'
